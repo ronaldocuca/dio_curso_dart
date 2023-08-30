@@ -1,0 +1,1 @@
+void printData(String texto) => print(texto);

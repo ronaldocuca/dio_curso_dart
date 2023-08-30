@@ -1,6 +1,3 @@
-import 'dart:convert';
-import 'dart:io';
-
 void faco_for_each_in() {
   var numeros = [1, 5, 9, 50, 85, 45, 90, 74];
   var acumulador = 0;
