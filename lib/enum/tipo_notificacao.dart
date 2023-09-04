@@ -1,0 +1,1 @@
+enum TipoNotificao { SMS, PUSH_NOTIFICATION, EMAIL, NENHUM }
